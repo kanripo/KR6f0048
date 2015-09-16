@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:55.778984
+#+DATE: 2015-08-30 20:01:57.108486
 #+TITLE: 佛說寶積三昧文殊師利菩薩問法身經
 #+PROPERTY: CBETA_ID T12n0356
 #+PROPERTY: ID KR6f0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 356
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0048_T_000-0237a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0048_T_001-0237a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.356¶
-
- 佛說寶積三昧文殊師利菩薩問¶
+No. 356¶
+佛說寶積三昧文殊師利菩薩問¶
 法身經¶
 ¶
 後漢安息三藏安世高譯¶
@@ -76,7 +75,7 @@ No.356¶
 文殊問佛：「持何法教學？」
 
 佛言：¶
-「我所教，不壞色痛痒思想死生識，無所壞；¶
+「我所教，不壞色痛庠思想死生識，無所壞；¶
 亦不教壞婬怒癡，令得不可計數法。以是法¶
 教作佛道者，我用是故自致得佛。」
 
