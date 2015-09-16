@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說寶積三昧文殊師利菩薩問法身經
+#+DATE: 2015-08-30 20:01:55.971423
+#+PROPERTY: JUAN 0
