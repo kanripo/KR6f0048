@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:56.362171
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:01
 #+TITLE: 佛說寶積三昧文殊師利菩薩問法身經
 #+PROPERTY: CBETA_ID T12n0356
 #+PROPERTY: ID KR6f0048
